@@ -6,7 +6,7 @@
     >
 
     <MainPackage
-        Uri="https://yossec.github.io/SING-GIRASOL/Programa_v2.msix"
+        Uri="https://www.dropbox.com/scl/fi/d1jcv0dj1kfer8y73kl0x/GirasolPESCRL.SignGirasol_1.0.5.0.msix?rlkey=j2gds6kldkunf8fto6gbmt36c&e=1&st=v6po1040&dl=1"
         Version="1.0.3.0"
         Publisher="CN=TuAppFirmaCertificado"
         Name="PruebaGirasol"
