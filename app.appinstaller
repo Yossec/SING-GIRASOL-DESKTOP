@@ -6,7 +6,7 @@
     >
 
     <MainPackage
-        Uri="https://github.com/Yossec/SING-GIRASOL-DESKTOP/releases/download/v1.0.0.0/GirasolPESCRL.SignGirasol_1.0.2.0_x64__2mv3nx4bxkxbe.msix"
+        Uri="https://github.com/Yossec/SING-GIRASOL-DESKTOP/releases/download/v1.0.0.0/GirasolPESCRL.SignGirasol_1.0.2.0_.msix"
         Version="1.0.2.0"
         Publisher="CN=TuAppFirmaCertificado"
         Name="GirasolPESCRL.SignGirasol"
