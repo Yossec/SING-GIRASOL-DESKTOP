@@ -6,7 +6,7 @@
     >
 
     <MainPackage
-        Uri="https://www.dropbox.com/scl/fi/d1jcv0dj1kfer8y73kl0x/GirasolPESCRL.SignGirasol_1.0.0.0.msix?rlkey=j2gds6kldkunf8fto6gbmt36c&st=lhdzxpxd&dl=1"
+        Uri="https://github.com/Yossec/SING-GIRASOL-DESKTOP/releases/download/v1.0.0.0/GirasolPESCRL.SignGirasol_1.0.0.0.msix"
         Version="1.0.3.0"
         Publisher="CN=TuAppFirmaCertificado"
         Name="PruebaGirasol"
