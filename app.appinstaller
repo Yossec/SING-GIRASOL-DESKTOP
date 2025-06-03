@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
     Uri="https://yossec.github.io/SING-GIRASOL-DESKTOP/app.appinstaller"
-    Version="1.0.5.0"
+    Version="1.0.2.0"
     xmlns="http://schemas.microsoft.com/appx/appinstaller/2018"
     >
 
     <MainPackage
-        Uri="https://github.com/Yossec/SING-GIRASOL-DESKTOP/releases/download/v1.0.0.0/GirasolPESCRL.SignGirasol_1.0.0.0.msix"
-        Version="1.0.5.0"
+        Uri="https://github.com/Yossec/SING-GIRASOL-DESKTOP/releases/download/v1.0.0.0/GirasolPESCRL.SignGirasol_1.0.2.0_x64__2mv3nx4bxkxbe.msix"
+        Version="1.0.2.0"
         Publisher="CN=TuAppFirmaCertificado"
         Name="GirasolPESCRL.SignGirasol"
         ProcessorArchitecture="x64"
