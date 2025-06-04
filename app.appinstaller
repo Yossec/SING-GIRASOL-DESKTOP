@@ -6,7 +6,7 @@
     >
 
     <MainPackage
-        Uri="https://github.com/Yossec/SING-GIRASOL-DESKTOP/releases/download/v1.0.0.0/GirasolPESCRL.SignGirasol_1.0.2.1.msix"
+        Uri="https://github.com/Yossec/SING-GIRASOL-DESKTOP/releases/download/v1.0.2.0/GirasolPESCRL.SignGirasol_1.0.2.0_x64.msix"
         Version="1.0.2.0"
         Publisher="STREET=Jr. Tupac Yupanqui Nro 143, E=ventas@firmeasy.legal, CN=Girasol PE SCRL, OU=Área-Sistemas, OU=RUC-20605042512, O=Girasol PE SCRL, L=Amarilis, S=Huánuco-Huánuco, C=PE"
         Name="GirasolPESCRL.SignGirasol"
@@ -16,8 +16,8 @@
     <UpdateSettings>
         <OnLaunch 
             HoursBetweenUpdateChecks="1"
-            UpdateBlocksActivation="false"
-            ShowPrompt="false" />
+            UpdateBlocksActivation="true"
+            ShowPrompt="true" />
         <AutomaticBackgroundTask />
         <ForceUpdateFromAnyVersion>true</ForceUpdateFromAnyVersion>
     </UpdateSettings>
