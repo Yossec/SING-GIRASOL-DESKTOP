@@ -16,7 +16,7 @@
     <UpdateSettings>
         <OnLaunch 
             HoursBetweenUpdateChecks="1"
-            UpdateBlocksActivation="true"
+            UpdateBlocksActivation="false"
             ShowPrompt="true" />
         <AutomaticBackgroundTask />
         <ForceUpdateFromAnyVersion>true</ForceUpdateFromAnyVersion>
